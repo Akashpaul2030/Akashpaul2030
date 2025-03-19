@@ -2,10 +2,11 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-paul/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritidhrita-paul-akash-346a1a355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akashpaul2030)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pritidhrita.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashpaul2030@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akashpaul2030)
 
 </div>
 
@@ -154,71 +155,12 @@ I design and implement innovative ML solutions with a focus on LLM fine-tuning, 
   </tr>
 </table>
 
-## 📈 Experience
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <h3>Machine Learning Engineer</h3>
-    <p><strong>DevolvedAI</strong> – LA, USA | Sep 2023 - Present</p>
-    <ul>
-      <li>Engineered fine-tuning workflows for Llama 3.1 models using LoRA</li>
-      <li>Developed scalable document processing with Ray for parallel execution</li>
-      <li>Created evaluation pipelines for LLMs across multiple domains</li>
-    </ul>
-  </div>
-</div>
-
-<details>
-  <summary><strong>View Previous Experience</strong></summary>
-  <div style="display: flex; justify-content: space-between;">
-    <div>
-      <h3>Trainee ML Engineer</h3>
-      <p><strong>InflexionpointBD</strong> – Dhaka, Bangladesh | May 2023 - July 2023</p>
-      <ul>
-        <li>Engaged with YOLO-based cow muzzle detection system</li>
-        <li>Integrated AI solutions into existing workflows</li>
-      </ul>
-    </div>
-  </div>
-  <div style="display: flex; justify-content: space-between;">
-    <div>
-      <h3>Data Analyst</h3>
-      <p><strong>IT Bangla Ltd</strong> – Dhaka, Bangladesh | Feb 2022 - Mar 2023</p>
-      <ul>
-        <li>Analyzed billing databases and created dashboards with Power BI/Tableau</li>
-        <li>Provided data-driven recommendations to improve user experience</li>
-      </ul>
-    </div>
-  </div>
-</details>
-
-## 📚 Publications
-
-<table>
-  <tr>
-    <td>
-      <strong>Proactive Threat Detection in Network Security: An Ensemble Machine Learning Approach</strong><br/>
-      <em>IEEE Xplore | Under Review</em>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>Exploring ChatGPT in Network Management and Monitoring: Benefits and Challenges</strong><br/>
-      <em>IEEE Xplore | 2 Citations</em>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>Effects of Co-curricular Activities on Student's Academic Performance by Machine Learning</strong><br/>
-      <em>Elsevier | 52 Citations</em>
-    </td>
-  </tr>
-</table>
 
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/akash-paul/">
+  <a href="https://www.linkedin.com/in/pritidhrita-paul-akash-346a1a355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/akash--paul-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:akashpaul2030@gmail.com">
